@@ -1,8 +1,8 @@
-How to design this baseline pipeline 
- 1.Data Modeling
- 2.Implementation
- 3.Optimization
- 4.Evolution
+#How to design this baseline pipeline 
+ -1.Data Modeling
+ -2.Implementation
+ -3.Optimization
+ -4.Evolution
 
  Two types of pipeline 
 1. init mode pipeline 
